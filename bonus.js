@@ -18,9 +18,9 @@ Arrivo sul bordo del marciapiede
 else attraverso la strada con attenzione
     
     ? if la strada è a senso unico
-        - guardo a destra or sinistra finche non passa nessuno
+        - guardo a destra or sinistra finche non passa nessuno or finche qualcuno si ferma per farmi passare
         - attraverso la strada con attenzione
 
     else
-      - guardo a destra and sinistra finche non passa nessuno
+      - guardo a destra and sinistra finche non passa nessuno or finche qualcuno si ferma per farmi passare
       - attraverso la strada con attenzione
