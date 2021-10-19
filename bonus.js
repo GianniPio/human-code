@@ -1,0 +1,1 @@
+// Attraversare le strisce pedonali
